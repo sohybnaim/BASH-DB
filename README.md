@@ -1,5 +1,5 @@
 # BASH-DB
 
-##Copid By
+## Copid By
 
 @sohybnaim
